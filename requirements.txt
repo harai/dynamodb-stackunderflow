@@ -1,0 +1,11 @@
+autopep8==1.2.4
+boto3==1.4.1
+botocore==1.4.76
+docutils==0.12
+isort==4.2.5
+jmespath==0.9.0
+pep8==1.7.0
+python-dateutil==2.6.0
+s3transfer==0.1.9
+six==1.10.0
+yapf==0.13.2
